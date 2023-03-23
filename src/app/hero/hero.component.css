@@ -1,3 +1,9 @@
-.jumbotron{
-    height: 400px;
+.hero{
+    height: 500px;
+}
+.wrap-info-btn-space{
+margin-right: 10px;
+}
+.hero-space{
+    margin-top: 80px !important;
 }
